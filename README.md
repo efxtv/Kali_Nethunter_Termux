@@ -1,10 +1,11 @@
-# Kali_nethunter
+# Kali_Nethunter_Termux
 Today we will install kali Nethunter using official kali Nethunter file with some modifications. To get more clarifications on this please visit my blogger website.
 
-How to install it in Termux
+# How to install Kali_Nethunter_Termux in Termux
 
 git clone https://github.com/efxtv/Kali_Nethunter_Termux.git
 chmod +x Kali_Nethunter_Termux
 ./Kali_Nethunter_Termux
 
-For more details please visi my blogger site: https://uk2blogger.blogspot.com
+For more details please visi my blogger 
+# site: https://uk2blogger.blogspot.com
